@@ -1,0 +1,8 @@
+emp_id,emp_name,email,dept_id,salary
+101,Ram,ram@gmail.com,1,50000
+102,,sita@gmail.com,2,45000
+103,Krishna,,1,60000
+104,Ravi,ravi@gmail.com,,55000
+105,Geetha,geetha@gmail.com,2,
+105,Geetha,geetha@gmail.com,2,
+106,Raju,raju@gmail.com,1,62000
